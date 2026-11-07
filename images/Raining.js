@@ -1,0 +1,1 @@
+This is an application that conducts tests on websites to determine whether there are dangers such as vulnerabilities in phishing tools and viruses to protect your device from all possible dangers. It works via our artificial intelligence so that it searches in depth 
